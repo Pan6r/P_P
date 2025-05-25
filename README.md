@@ -1,27 +1,2 @@
 # P_P
 test page
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        THE SECOND WEB PAGE
-        <link rel="icon" type="Image/png" href="Image/headicon.png">
-    </head>
-    <body>
-        <h1>THIS IS THE SECOND WEB PAGE</h1>
-        <main>
-            <h2>Image time !!</h2>
-            <ol>
-                <li>Image_1 (plain)</li>
-                <figure>
-                    <img src="Image/body1.png" alt="Picture" width="30%" height="30%">
-                    <figcaption>50/50</figcaption>
-                </figure>  
-                <li>Image_2 (link)</li>
-                <figure><a href="https://chatgpt.com/"><img src="Image/chatgpt.png" alt ="ChatGPT" width="25%"></a></figure>
-                <li>Image_3</li>
-            </ol>
-        </main>
-        <footer>hehehe</footer>
-    </body>
-</html>
